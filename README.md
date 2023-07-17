@@ -1,4 +1,4 @@
-# 2204919_ce888_assignment2
+# StressSignalAnalysis
 
 Predicting Stress from Physiological Signals
 This project aims to predict stress levels from physiological signals such as Electrodermal Activity (EDA), Heart Rate (HR), and Skin Temperature (TEMP). The dataset used in this project was provided by a hospital, and the project was commissioned by a company that aims to commercialize a stress prediction tool based on physiological signals.
